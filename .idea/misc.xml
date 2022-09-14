@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/Lab4/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/ITMOLab4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.155" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/ITMOLab4/app/src/main/res/drawable/ic_default_icon.xml" value="0.155" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/ITMOLab4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.155" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/ITMOLab4/app/src/main/res/layout/activity_main.xml" value="0.11333333333333334" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/ITMOLab4/app/src/main/res/layout/animals_item.xml" value="0.1796875" />
+        <entry key="..\:/AA University/7th Semester/Разработка мобильных приложений/nm/np/Android_ITMO-main/Lab4/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/ASProjects/Android_ITMO/ITMOLab4/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/ASProjects/Android_ITMO/ITMOLab4/app/src/main/res/layout/animals_item.xml" value="0.1" />
+        <entry key="..\:/ASProjects/Android_ITMO/ITMOLab4/app/src/main/res/xml/network_security_config.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
